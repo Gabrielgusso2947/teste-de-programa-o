@@ -1,0 +1,29 @@
+ h1 {
+    text-align: center;
+ }
+
+ img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    height: 300px;
+ }
+
+ footer img {
+    background-color: chartreuse;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 200px;
+ }
+ footer p {
+    text-align: center;
+ }
+
+ div {
+    text-align: center;
+    background-color: darkgray;
+    height: 20px;
+    text-transform: 30%;
+ }
